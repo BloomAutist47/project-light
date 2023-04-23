@@ -1,0 +1,1 @@
+Is the world where the story is set in, created by the sacrifice of the [[Fragile being]].
