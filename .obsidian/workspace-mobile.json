@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synopsis.md",
+                "file": "Races/Man.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Synopsis.md",
+            "file": "Races/Man.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Synopsis.md",
+            "file": "Races/Man.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Synopsis.md"
+            "file": "Races/Man.md"
           }
         }
       }
@@ -135,13 +135,18 @@
   },
   "active": "f459292e871be92f",
   "lastOpenFiles": [
-    "Beings/Faded One.md",
-    "Synopsis.md",
-    "Lore/Light.md",
+    "Lore/Outer God.md",
+    "Untitled",
+    "Races/Man.md",
+    "Lore/Gentle Light.md",
+    "Races",
+    "Lore/Lore.md",
     "Lore/Golden Castle of Light.md",
+    "Synopsis.md",
+    "Beings/Faded One.md",
+    "Lore/Light.md",
     "Characters/Josephine Kalingrad.md",
     "Characters",
-    "Lore/Lore.md",
     "Lore/Untitled.md",
     "Lore/Willowhearth.md",
     "Locations/Eternal Abyss.md",

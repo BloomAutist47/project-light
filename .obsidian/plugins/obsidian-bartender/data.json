@@ -16,9 +16,10 @@
     ],
     "/": [
       "Synopsis.md",
-      "Characters",
-      "Beings",
       "Lore",
+      "Races",
+      "Beings",
+      "Characters",
       "Locations",
       "Images",
       "Chapters"

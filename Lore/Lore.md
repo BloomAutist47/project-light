@@ -2,6 +2,7 @@
 - **Alderons**
 	- [[Fragile being]]
 	- [[Heedless Father]]
+- [[Gentle Light]]
 - [[Golden Castle of Light]]
 - [[Light]]
 - [[Lore]]
@@ -17,9 +18,9 @@ Theme:
 
 Once there was no [[Light]], only darkness. During this time, there were only monsters and chaos gods who brought ruins upon the pitiful shadows.
 
-It was during this time that the Eternity Well, mysterious and powerful, spewed the Spark of Light which granted immense power upon those who picked it. Powerful chaos gods divided it among themselves and thus gained individuality. One of them, however, was meek and fragile. He did not find Light, but he found a flame that gives warmth. And with it, he gave heat to the cold and miserable shadows living in the mellow caves, whom he found pitiful. But he found it wasn’t enough, for the shadows would fight amongst themselves and harm one another. And so, he journeyed through meadows, dark forests, mountains, deep valleys and the dark corners of the abyss in search of the one thing that would help them. Until he read a book which led to a mysterious stone containing an amber of Light.
+It was during this time that the [[Eternity Well]], mysterious and powerful, spewed the Spark of [[Light]] which granted immense power upon those who picked it. Powerful [[Outer God]]s divided it among themselves and thus gained individuality. One of them, however, was meek and fragile. He did not find Light, but he found a flame that gives warmth. And with it, he gave heat to the cold and miserable shadows living in the mellow caves, whom he found pitiful. But he found it wasn’t enough, for the shadows would fight amongst themselves and harm one another. And so, he journeyed through meadows, dark forests, mountains, deep valleys and the dark corners of the abyss in search of the one thing that would help them. Until he read a book which led to a mysterious stone containing an amber of Light.
 
-Gentle Light.
+[[Gentle Light]].
 
 And so, the fragile being granted this Light upon the shadows and they learned compassion. They helped one another and they built a world for themselves. They have become humans. And thus, the fragile being laid rest, satisfied with his work. He then taught mankind Philosophy.
 
