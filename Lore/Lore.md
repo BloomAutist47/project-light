@@ -2,12 +2,15 @@
 - **Alderons**
 	- [[Fragile being]]
 	- [[Heedless Father]]
+- [[Fragments of the Light]]
 - [[Gentle Light]]
 - [[Golden Castle of Light]]
+- [[Golden Obsidian]]
 - [[Light]]
 - [[Lore]]
 - [[Oakenhearth]]
 - [[Outer God]]
+- [[Untitled]]
 - [[Willowhearth]]
 - [[Worship of the Fragile]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lore.md",
+                "file": "Lore/Light.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Lore.md",
+                "file": "Lore/Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Lore.md",
+                "file": "Lore/Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Lore.md"
+                "file": "Lore/Light.md"
               }
             }
           }
@@ -150,8 +150,18 @@
   },
   "active": "be883aa9dea63109",
   "lastOpenFiles": [
-    "Lore/Alderons/Fragile being.md",
     "Lore/Lore.md",
+    "Synopsis.md",
+    "Races/Man.md",
+    "Races",
+    "Lore/Willowhearth.md",
+    "Lore/Oakenhearth.md",
+    "Lore/Light.md",
+    "Lore/Gentle Light.md",
+    "Characters/Josephine Kalingrad.md",
+    "Characters",
+    "Beings/Faded One.md",
+    "Lore/Alderons/Fragile being.md",
     "Locations/Eternal Abyss.md",
     "Beings/Empyrean.md",
     "Beings",
@@ -177,20 +187,11 @@
     "Machine Design/Engineering Materials/Material Diagram.canvas",
     "Machine Design/I. Simple Stress.md",
     "Machine Design/Machine Design.md",
-    "Power Plant Engineering/Fluid Mechanics.md",
-    "Industrial Engineering/Cooling Load Calculations.md",
-    "Industrial Engineering/Air Conditioning.md",
-    "Industrial Engineering/Industrial Engineering.md",
-    "Conversions/Conversion List.md",
-    "Power Plant Engineering/Power Plant Engineering.md",
     "Conversions",
-    "Industrial Engineering.md",
     "Industrial Engineering",
     "Machine Design/Untitled.canvas",
     "Machine Design/Engineering Materials",
     "Images/poisson's ratio.png",
-    "Machine Design/Terms",
-    "Power Plant Engineering",
     "Untitled.canvas",
     "Images/simple_stress.png"
   ]
