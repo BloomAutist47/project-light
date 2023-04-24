@@ -15,11 +15,26 @@
       "MACDES/Images"
     ],
     "/": [
+      "Synopsis.md",
+      "Characters",
       "Beings",
       "Lore",
       "Locations",
       "Images",
       "Chapters"
+    ],
+    "Lore": [
+      "Lore/Alderons",
+      "Lore/Characters",
+      "Lore/Fragments of the Light.md",
+      "Lore/Golden Castle of Light.md",
+      "Lore/Light.md",
+      "Lore/Lore.md",
+      "Lore/Oakenhearth.md",
+      "Lore/Outer God.md",
+      "Lore/Willowhearth.md",
+      "Lore/Untitled.md",
+      "Lore/Worship of the Fragile.md"
     ]
   },
   "actionBarOrder": {},

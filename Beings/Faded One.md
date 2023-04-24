@@ -1,0 +1,1 @@
+Are human beings who lost their [[Light]]

@@ -1,4 +1,4 @@
-Are powerful mortals who has been recognized by the [[Golden Obsidian]] for their might, strength, and righteous will.
+Are powerful mortals who has been recognized by the [[Oakenhearth]] for their might, strength, and righteous will.
 
 They possess powerful magick and reality bending powers.
 

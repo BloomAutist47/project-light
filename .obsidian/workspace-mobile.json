@@ -11,9 +11,11 @@
             "id": "f459292e871be92f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/fragments of light.png"
+                "file": "Synopsis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -32,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "custom"
           }
         }
       },
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/fragments of light.png",
+            "file": "Synopsis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/fragments of light.png",
+            "file": "Synopsis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/fragments of light.png"
+            "file": "Synopsis.md"
           }
         }
       }
@@ -133,9 +135,21 @@
   },
   "active": "f459292e871be92f",
   "lastOpenFiles": [
+    "Beings/Faded One.md",
+    "Synopsis.md",
+    "Lore/Light.md",
+    "Lore/Golden Castle of Light.md",
+    "Characters/Josephine Kalingrad.md",
+    "Characters",
+    "Lore/Lore.md",
+    "Lore/Untitled.md",
+    "Lore/Willowhearth.md",
     "Locations/Eternal Abyss.md",
-    "Images/fragments of light.png",
+    "Lore/Alderons/Fragile being.md",
+    "Chapters/Chapters.md",
+    "Chapters/Chapter 1.md",
     "Beings/Empyrean.md",
-    "Chapters/Chapter 1.md"
+    "Lore/Oakenhearth.md",
+    "Images/fragments of light.png"
   ]
 }

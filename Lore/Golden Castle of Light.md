@@ -1,1 +1,1 @@
-The Castle by which the [[Golden Obsidian]] is stored.
+The Castle by which the [[Oakenhearth]] is stored.
