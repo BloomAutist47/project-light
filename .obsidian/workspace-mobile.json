@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Man.md",
+                "file": "Lore/Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Races/Man.md",
+            "file": "Lore/Lore.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Races/Man.md",
+            "file": "Lore/Lore.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Races/Man.md"
+            "file": "Lore/Lore.md"
           }
         }
       }
@@ -135,12 +135,14 @@
   },
   "active": "f459292e871be92f",
   "lastOpenFiles": [
+    "Chapters/Chapter 1.md",
+    "Lore/Lore.md",
+    "Lore/Willowhearth.md",
+    "Races/Man.md",
     "Lore/Outer God.md",
     "Untitled",
-    "Races/Man.md",
     "Lore/Gentle Light.md",
     "Races",
-    "Lore/Lore.md",
     "Lore/Golden Castle of Light.md",
     "Synopsis.md",
     "Beings/Faded One.md",
@@ -148,11 +150,9 @@
     "Characters/Josephine Kalingrad.md",
     "Characters",
     "Lore/Untitled.md",
-    "Lore/Willowhearth.md",
     "Locations/Eternal Abyss.md",
     "Lore/Alderons/Fragile being.md",
     "Chapters/Chapters.md",
-    "Chapters/Chapter 1.md",
     "Beings/Empyrean.md",
     "Lore/Oakenhearth.md",
     "Images/fragments of light.png"
