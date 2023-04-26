@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lore.md",
+                "file": "Chapters/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lore/Lore.md",
+            "file": "Chapters/Chapter 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lore/Lore.md",
+            "file": "Chapters/Chapter 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lore/Lore.md"
+            "file": "Chapters/Chapter 1.md"
           }
         }
       }
@@ -135,8 +135,8 @@
   },
   "active": "f459292e871be92f",
   "lastOpenFiles": [
-    "Chapters/Chapter 1.md",
     "Lore/Lore.md",
+    "Chapters/Chapter 1.md",
     "Lore/Willowhearth.md",
     "Races/Man.md",
     "Lore/Outer God.md",

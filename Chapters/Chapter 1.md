@@ -24,11 +24,11 @@ She began walking, feeling the weakness from her body.
 
 ---
 
-As the Light quivered, she felt its warmth embrace fade away, like a quick and simple lullaby.
+As the Light quivered, she felt its warm embrace fade away, like a quick and simple lullaby.
 
 Her eyes opened, and a bleak world of gloom unveiled itself. 
 
-Down into the dark meadows laid a graveyard of unending bones and churns. Withered trees, unchecked thorn bushes, and ravens of omen inhabited the lands. And towards into the sky, she saw a bleak, Lightless sky of ever twilight. A shivering sky  as if its final breath of Light would fade at any moment.
+Down into the dark meadows laid a graveyard of unending bones and churns. Withered trees, unchecked thorn bushes, and ravens of omen inhabited the lands. And towards into the sky, she saw a bleak, Lightless clouds of ever twilight. A shivering sky, as if its final breath of Light would fade at any moment.
 
 She turned to observe her surrounding before realizing she had woken up... in front of a tombstone.
 
@@ -42,11 +42,17 @@ A knowledge paid with a cost she could not live with.
 
 But some things had to be done, Josephine thought as she curled her eyes into a downward stare.
 
-She sighed, before looking into the horizon. Within this foggy, bleak world, laid a single tower with a golden  dull Light.
+She sighed, before looking into the horizon. Within this foggy, bleak world, laid a single tower with a golden, dull Light.
 
 She looked at her palm. Transluscent and fading, and yet, she felt an instinct within her to approach that very Light.
 
-And so, Josephine began her wander. She took a blade stabbed to the ground, rusted and dented, and wielded it with both arms.
+And so, Josephine began her wander. She took a blade stabbed to the ground, rusted and dented, she wielded it with one hand.
+
+As the scenery changes with her every step down into the road, the corpses that laid before her grew in number, as did the broken caravans and pack horses filled with rotting items.
+
+Suddenly, behind the withered trees, a shadow moved.
+
+Josephine stared into that being. It was a person, or used to be, whose body is withered into a 
 
 
 
