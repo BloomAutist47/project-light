@@ -52,7 +52,13 @@ As the scenery changes with her every step down into the road, the corpses that 
 
 Suddenly, behind the withered trees, a shadow moved.
 
-Josephine stared into that being. It was a person, or used to be, whose body is withered into a 
+Josephine observed. It was a person, or used to be, whose body is withered, whose soul is in limbo, and whose entire being is embraced by a dark mirage.
+
+Shadowed.
+
+Josee remembered. The end of the curse, when the fi al Light that guides the mind completely... faded.
+
+It strode forth, headed in her direction. And as it staggered  it opened its terrible mouth, roaring in the most 
 
 
 
