@@ -2,7 +2,7 @@ In an age long far gone, the Light that protects the Mundane Lands has gone dark
 
 But beyond the fogs, lies a fallen. A daughter of man, forgotten, unbegotten, a Faded One - beings who has lost their Gentle Light.
 
-She rose from dull sand and echoed a final roar. Living, but yet fading. Determined, she set out on a quest to become the Lord of Light.
+She rose from dull sand and echoed a final roar. Living, but yet fading. Determined, she set out on a quest to cure her people of the rot that withers them... or fade away herself.
 
 
 ---

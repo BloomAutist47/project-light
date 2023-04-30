@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Light.md",
+                "file": "Chapters/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Light.md",
+                "file": "Chapters/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Light.md",
+                "file": "Chapters/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Light.md"
+                "file": "Chapters/Chapter 1.md"
               }
             }
           }
@@ -150,47 +150,46 @@
   },
   "active": "be883aa9dea63109",
   "lastOpenFiles": [
+    "Chapters/~syncthing~Chapter 1.md.tmp",
     "Lore/Lore.md",
+    "Chapters/Chapter 1.md",
+    "Chapters/Chapter 2.md",
+    "Chapters/~syncthing~Chapters.md.tmp",
+    "Lore/~syncthing~Oakenhearth.md.tmp",
+    "Chapters/~syncthing~Chapter 2.md.tmp",
+    "Lore/Fragments of Light.md",
+    "Lore/~syncthing~Fragments of Light.md.tmp",
+    "Beings/Shopbearers.md",
+    "Lore/Philosophy.md",
+    "Y.md",
+    "Lore/~syncthing~Gentle Light.md.tmp",
+    "Lore/~syncthing~Light.md.tmp",
+    "Beings/~syncthing~Shopbearers.md.tmp",
+    "Lore/~syncthing~Lore.md.tmp",
+    "~syncthing~Y.md.tmp",
+    "Josee of the Faded Light.md",
+    "Chapters/Chapters.md",
+    "Lore/Light.md",
     "Synopsis.md",
     "Races/Man.md",
-    "Races",
     "Lore/Willowhearth.md",
     "Lore/Oakenhearth.md",
-    "Lore/Light.md",
     "Lore/Gentle Light.md",
     "Characters/Josephine Kalingrad.md",
-    "Characters",
     "Beings/Faded One.md",
     "Lore/Alderons/Fragile being.md",
     "Locations/Eternal Abyss.md",
     "Beings/Empyrean.md",
-    "Beings",
     "Locations/Mundane Lands.md",
     "Lore/Fragments of the Light.md",
     "Lore/Golden Castle of Light.md",
     "Images/fragments of light.png",
     "Lore/Golden Obsidian.md",
-    "Images",
     "Images/golden obsidian.png",
     "Lore/Alderons/Heedless Father.md",
-    "Lore/Outer God.md",
-    "Chapters/Chapters.md",
-    "Locations",
-    "Lore/Untitled.md",
-    "Lore/Worship of the Fragile.md",
-    "Lore.md",
-    "Lore",
-    "Lore/Alderons",
-    "High Entities.md",
-    "Chapters/Chapter 1.md",
     "Images/capillary.png",
     "Machine Design/Engineering Materials/Material Diagram.canvas",
-    "Machine Design/I. Simple Stress.md",
-    "Machine Design/Machine Design.md",
-    "Conversions",
-    "Industrial Engineering",
     "Machine Design/Untitled.canvas",
-    "Machine Design/Engineering Materials",
     "Images/poisson's ratio.png",
     "Untitled.canvas",
     "Images/simple_stress.png"
