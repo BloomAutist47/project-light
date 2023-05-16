@@ -1,0 +1,1 @@
+The power which imbues the wild and unstable power of the stars into water, creating a powerful magick.

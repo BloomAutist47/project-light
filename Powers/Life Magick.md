@@ -1,0 +1,1 @@
+Powerful Magick by the [[Sentinel Trees]] which is capable of invigorating life force within someone, channeling the Light within their souls and improving their lifespan.

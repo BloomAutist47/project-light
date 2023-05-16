@@ -1,4 +1,4 @@
-> "The Light is the cure for all ailments. But if it is really so, why does it burn everyonr that seeketh it?"
+> "The Light is the cure for all ailments. But if it is really so, why does it burn everyone that seeketh it?"
 
 Is the source of sentience and individuality, spewed by the [[Eternity Well]].
 

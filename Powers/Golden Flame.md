@@ -1,0 +1,1 @@
+A powerful magick which combines Light and Fire, creating a power that can both heal and destroy.

@@ -1,1 +1,0 @@
-Is a mysterious [[Outer God]] who is responsible for the shattering of the [[Oakenhearth]]

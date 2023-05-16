@@ -1,1 +1,0 @@
-The Castle by which the [[Oakenhearth]] is stored.

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 1.md",
+                "file": "Lords/Haskill, Lord of Blight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24ce79057521043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lords/Luciana, Goddess of Lament.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,6 +84,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "44258a872a96aea6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chapters/Chapter 1.md",
+            "file": "Lords/Luciana, Goddess of Lament.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chapters/Chapter 1.md",
+            "file": "Lords/Luciana, Goddess of Lament.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chapters/Chapter 1.md"
+            "file": "Lords/Luciana, Goddess of Lament.md"
           }
         }
       }
@@ -133,33 +154,40 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f459292e871be92f",
+  "active": "b24ce79057521043",
   "lastOpenFiles": [
-    "Lore/Lore.md",
-    "Beings/Faded One.md",
-    "Beings/Withered.md",
-    "Beings/Empyrean.md",
     "Chapters/Chapter 1.md",
-    "Chapters/Chapter 2.md",
-    "Lore/Oakenhearth.md",
-    "Lore/Golden Obsidian.md",
-    "Lore/Fragments of Light.md",
-    "Lords",
-    "Lore/Philosophy.md",
-    "Lore/Light.md",
-    "Lore/Gentle Light.md",
-    "Beings/Shopbearers.md",
-    "Josee of the Faded Light.md",
-    "Images/fragments of light.png",
-    "Lore/Willowhearth.md",
+    "Powers/Starry Water.md",
+    "Powers/Unthetered Light.md",
+    "Beings/Sentinel Trees.md",
+    "Lords/Luciana, Goddess of Lament.md",
+    "Characters/Yuryalis of the Boreal Light.md",
+    "Groups/Monks of Kalingrad.md",
+    "Groups/Order of the Golden Flame.md",
+    "Characters/Fiamma of the Golden Flame.md",
+    "Groups/Deep Starcries.md",
+    "Characters/Pepito, the Doctor Frog.md",
+    "Story.md",
+    "Lords/Haskill, Lord of Blight.md",
     "Races/Man.md",
-    "Lore/Outer God.md",
+    "Lore/Outer Gods/Twilight Father.md",
+    "Lore/Outer Gods/God of Destined Strings.md",
+    "Characters/Starlight Lyssandra.md",
+    "Characters/Orbain the Unthetered Light.md",
+    "Locations/Kingdom of Bolenwyn.md",
+    "Locations/Mundane Lands.md",
+    "Characters/Sunderia Morningstar.md",
+    "Characters/Flabious, Loyal Knight.md",
+    "Characters/Astolfo.md",
+    "Characters/Calypso.md",
+    "Locations/Academy of Twilight.md",
+    "Beings/Acturian Knights.md",
+    "Lore/Map.canvas",
+    "Boss",
+    "Groups",
+    "Lords",
+    "Images/fragments of light.png",
     "Races",
-    "Lore/Golden Castle of Light.md",
-    "Characters/Josephine Kalingrad.md",
-    "Characters",
-    "Locations/Eternal Abyss.md",
-    "Lore/Alderons/Fragile being.md",
-    "Chapters/Chapters.md"
+    "Characters"
   ]
 }

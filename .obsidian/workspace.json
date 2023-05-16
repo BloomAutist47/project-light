@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 1.md",
+                "file": "Lords/Luciana, Goddess of Lament.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a0ce45b52448da5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter 1.md",
+                "file": "Lords/Luciana, Goddess of Lament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters/Chapter 1.md",
+                "file": "Lords/Luciana, Goddess of Lament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/Chapter 1.md"
+                "file": "Lords/Luciana, Goddess of Lament.md"
               }
             }
           }
@@ -150,43 +158,46 @@
   },
   "active": "be883aa9dea63109",
   "lastOpenFiles": [
-    "Chapters/~syncthing~Chapter 1.md.tmp",
-    "Lore/Lore.md",
-    "Chapters/Chapter 1.md",
-    "Chapters/Chapter 2.md",
-    "Chapters/~syncthing~Chapters.md.tmp",
-    "Lore/~syncthing~Oakenhearth.md.tmp",
-    "Chapters/~syncthing~Chapter 2.md.tmp",
-    "Lore/Fragments of Light.md",
-    "Lore/~syncthing~Fragments of Light.md.tmp",
-    "Beings/Shopbearers.md",
-    "Lore/Philosophy.md",
-    "Y.md",
-    "Lore/~syncthing~Gentle Light.md.tmp",
-    "Lore/~syncthing~Light.md.tmp",
-    "Beings/~syncthing~Shopbearers.md.tmp",
-    "Lore/~syncthing~Lore.md.tmp",
-    "~syncthing~Y.md.tmp",
+    "Lore/Prophecy of the Faded One.md",
+    "Lore/History.md",
+    "Lore/Map.canvas",
     "Josee of the Faded Light.md",
-    "Chapters/Chapters.md",
-    "Lore/Light.md",
-    "Synopsis.md",
-    "Races/Man.md",
-    "Lore/Willowhearth.md",
-    "Lore/Oakenhearth.md",
-    "Lore/Gentle Light.md",
+    "Lore/Light Shard.md",
+    "Lords/Luciana, Goddess of Lament.md",
+    "Lords/Lorean, Lord of Face.md",
+    "Lords/Haskill, Lord of Blight.md",
+    "Characters/Galleon the Moonhealer.md",
+    "Characters/Fiamma of the Golden Flame.md",
+    "Characters/Astolfo.md",
+    "Powers/Ferrous Forging.md",
+    "Beings/Kingdom of Arendor/Knives of Arendor.md",
+    "Locations/Kingdom of Bolenwyn.md",
+    "Withering.md",
+    "Powers/Starry Water.md",
+    "Powers/Living Rot.md",
+    "Locations/Undying Forest.md",
+    "Beings/Kingdom of Arendor/Soldiers of Arendor.md",
+    "~syncthing~Withering.md.tmp",
+    "Beings/Kingdom of Arendor/~syncthing~Knives of Arendor.md.tmp",
+    "Powers/~syncthing~Starry Water.md.tmp",
+    "Powers/~syncthing~Living Rot.md.tmp",
+    "Locations/~syncthing~Kingdom of Bolenwyn.md.tmp",
+    "Locations/~syncthing~Undying Forest.md.tmp",
+    "Groups/~syncthing~Deep Starcries.md.tmp",
+    "Beings/Kingdom of Arendor/~syncthing~Unthetered Knights of Arendor.md.tmp",
+    "Beings/Kingdom of Arendor/~syncthing~Soldiers of Arendor.md.tmp",
+    "Boss/Priest Zarion the Disgraced.md",
+    "Items/God Shattering Spear.md",
     "Characters/Josephine Kalingrad.md",
-    "Beings/Faded One.md",
-    "Lore/Alderons/Fragile being.md",
-    "Locations/Eternal Abyss.md",
-    "Beings/Empyrean.md",
-    "Locations/Mundane Lands.md",
-    "Lore/Fragments of the Light.md",
-    "Lore/Golden Castle of Light.md",
+    "Groups/Deep Starcries.md",
+    "Characters/Starlight Lyssandra.md",
+    "Lore/Outer Gods/Water Spirit.md",
+    "Lore/Outer Gods/Hunger Mother.md",
+    "Lore/Outer Gods/Twilight Father.md",
+    "Items",
+    "Images/dragon chicken astolfo.png",
     "Images/fragments of light.png",
-    "Lore/Golden Obsidian.md",
     "Images/golden obsidian.png",
-    "Lore/Alderons/Heedless Father.md",
     "Images/capillary.png",
     "Machine Design/Engineering Materials/Material Diagram.canvas",
     "Machine Design/Untitled.canvas",

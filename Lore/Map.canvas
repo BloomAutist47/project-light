@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Oakenhearth]]","id":"12664a21e124f3dc","x":-220,"y":-380,"width":180,"height":60},
+		{"type":"text","text":"[[Twilight Fireflies]]","id":"18eb75d0a9dbccca","x":-560,"y":-140,"width":205,"height":50},
+		{"type":"text","text":"[[Academy of Twilight]]","id":"96c32b3912d10ad6","x":-677,"y":0,"width":220,"height":50},
+		{"type":"text","text":"[[Deep Starcries]]","id":"995a71912430f73b","x":-255,"y":-140,"width":250,"height":60},
+		{"id":"2dbd18e5cc01ef2d","x":231,"y":-118,"width":289,"height":58,"type":"text","text":"[[Orbain the Unthetered Light]]"},
+		{"id":"b604c6756569de20","x":395,"y":-340,"width":250,"height":60,"type":"text","text":"[[Kingdom of Arendor]]"},
+		{"id":"c0213ae4674e78df","x":520,"y":120,"width":300,"height":60,"type":"text","text":"[[Unthetered Knights of Arendor]]"},
+		{"id":"a90d6c497bc57351","x":961,"y":131,"width":250,"height":60,"type":"text","text":"[[Knives of Arendor]]"},
+		{"id":"efa4d6c2c0bf117a","x":781,"y":-70,"width":139,"height":50,"type":"text","text":"Fighters"},
+		{"id":"827825717d2932bc","x":733,"y":280,"width":235,"height":58,"type":"text","text":"[[Soldiers of Arendor]]"},
+		{"id":"ba0fb906b528c0b8","x":-209,"y":311,"width":289,"height":50,"type":"text","text":"[[Order of the Golden Flame]]"},
+		{"id":"0a728369ad416efb","x":-351,"y":560,"width":284,"height":56,"type":"text","text":"[[Fiamma of the Golden Flame]]"}
+	],
+	"edges":[
+		{"id":"a6f3a56e2dea656e","fromNode":"18eb75d0a9dbccca","fromSide":"bottom","toNode":"96c32b3912d10ad6","toSide":"top"},
+		{"id":"bb23d34f4236460c","fromNode":"b604c6756569de20","fromSide":"bottom","toNode":"2dbd18e5cc01ef2d","toSide":"top"},
+		{"id":"f25bdafe765cb68e","fromNode":"efa4d6c2c0bf117a","fromSide":"bottom","toNode":"c0213ae4674e78df","toSide":"top"},
+		{"id":"8ee69ef011e3919c","fromNode":"efa4d6c2c0bf117a","fromSide":"bottom","toNode":"a90d6c497bc57351","toSide":"top"},
+		{"id":"6646f94cbdff69bc","fromNode":"b604c6756569de20","fromSide":"bottom","toNode":"efa4d6c2c0bf117a","toSide":"top"},
+		{"id":"2b19539e06157b66","fromNode":"efa4d6c2c0bf117a","fromSide":"bottom","toNode":"827825717d2932bc","toSide":"top"},
+		{"id":"c5099622367711d3","fromNode":"ba0fb906b528c0b8","fromSide":"bottom","toNode":"0a728369ad416efb","toSide":"top"}
+	]
+}

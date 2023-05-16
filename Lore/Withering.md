@@ -1,0 +1,1 @@
+Is the phenomenon where the body dark decays because of the abscence of Light. Those who also constantly cone in contact with withered are more suceptible to withering themeselves.

@@ -1,0 +1,1 @@
+Is a powerful outer god who preside over the aspect of Destiny.

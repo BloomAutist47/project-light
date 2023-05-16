@@ -7,4 +7,3 @@ Because of countless ages, the races of men have splintered off into different b
 - [[Syr]]
 - [[Giants]]
 - [[Hrel]]
-- 

@@ -1,0 +1,1 @@
+Are the normal soldiers of Arendor. Coming with the ascension of [[[Orbain the Unthetered Light]], he enacted a change in his soldier's training, making them stronger and more disciplined.

@@ -1,8 +1,9 @@
-"Harken O [[Faded One]]... arise from the fog"
+
+"Oh [[Faded One]]... arise from the fog"
 
 As the haunting melodies of an old one echoed through the misty fog, a frail being stirred.
 
-And from dull sand, there emerged a faded being. One whose [[Gentle Light]] hath been purloined.
+And from dull sand, there emerged a faded one. One whose [[Gentle Light]] hath been purloined.
 
 Her form seemed human, but upon close scrutiny, it revealed a tiny transluscence.
 
@@ -28,7 +29,7 @@ As the Light quivered, she sensed its tender embrace recede, akin to a fleeting 
 
 Her eyes opened, and a bleak world of gloom unveiled itself. 
 
-Down into the dark meadows laid a graveyard of unending bones and churns. Dead trees, unbridled brambles, and ill-fated ravens populated the lands. And to the sky, she beheld a somber firmament of Light, everlastingly draped in twilight. A heaving sky, as though its ultimate breath of illumination could perish at any given instant.
+Down into the dark meadows laid a graveyard of unending bones and churns. Dead trees, unbridled brambles, and ill-fated ravens populated the lands. And to the sky, she beheld a somber firmament of Light, everlastingly draped in twilight. A heaving sky, as though its ultimate breath of ilight could perish at any given instant.
 
 She turned to observe her surrounding before realizing she had woken up... in front of a tombstone.
 
@@ -146,9 +147,78 @@ She climbed through walls, and sneaked through passages unearthed by the conflic
 
 Until eventually, Josephine arrived at a chapel. Much like all that lives here, it too, was withered. The glass windows were cracked, the wooden doors were broken, and tower bell is missing.
 
-And so, Josephine stood in front of tge rotting chapel.
+And so, Josephine stood in front of tgh rotting chapel.
 
-The creaking of the doors, the bellowing of a hollowed wind, and the murmuring of crows, all of 
+The creaking of the doors, the bellowing of a hollowed wind, and the murmuring of crows, all of which harkened her that danger lies ahead.
+
+But Josephine stood strong. Wielding her sword, she opened the doors.
+
+Wind entered, and in the middle of the isle, lies a single... giant robed being, seating in the ground, shaking, quivering.
+
+Josephined observed. Her eyes witnessed the storied strings weaved upon the robes, depicting a tale of religion and salvation.
+
+She remembered what it was.
+
+A priest.
+
+And as Josee stood there, the priestly being momentarily stopped from its shaking... and then it stood, or rather... kneeled.
+
+It turned around, and Josephine's eyes quivered upon seeing the abomination.
+
+It had a tall, mishapen withered body with a disproportionately large chest. And within that chest, wailing sounds of arms, head and feet writhe like worms in a poisoned jar. 
+
+There were hundreds of them, as if that thing had devoured them. And yet from its back were shrivelled arms, holding all of these writhing withered beings.
+
+
+
+And she shut her eyes... for the screams grew louder. 
+
+Release us.  
+
+Save us.
+
+Please...
+
+Josephine opened her eyes with difficulty.
+
+Grant us death.
+
+And she could hold it no longer... as the tears fell from her scarlet eyes.
+
+Josephine cast her eyes downward. But such feelings had to be fleeting, for an Ought needs to be done.
+
+She stared forward, her tears vanishing like fragile dust.
+
+And that horrible being shivered. Josephine looked upward, and she saw that its head was covered with both of its giant hands.
+
+As if it was ashamed.
+
+"Are you another lost soul?..", an old, withered voice spoke.
+
+And Josephine realized it was the tall, malformed priest, cowering behind his hands.
+
+"I must save you then... I must save all of you... come", and it crawled, with its knees on the ground and both hands on its face, it staggered to reach her.
+
+It used one of its arms and pulled a priestly staff from its back. A staff which already grew dull. And yet its size looked so disproportionaate with the priest's body, akin to a small stick.
+
+Josephine gripped her sword.
+
+Her will, remains unbroken.
+
+#### Priest Zarion the Disgraced
+
+
+
+
+
+
 
 
 She knew that there were more battles to come, more souls to be freed from their cursed existence. But for now, she had won this battle. And that was enough.
+
+The giant monster, a husk of a former man, began crawling towards her, and Josephine too began forth.
+
+As the two met, its giant right arm, wielding the dull priestly staff wiped the floor.
+
+
+
